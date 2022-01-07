@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gitUsersFinder/static/css/main.baff0f4d.css",
+    "main.js": "/gitUsersFinder/static/js/main.5ca8103a.js",
+    "static/js/787.bb7d8723.chunk.js": "/gitUsersFinder/static/js/787.bb7d8723.chunk.js",
+    "static/media/logo.svg": "/gitUsersFinder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gitUsersFinder/index.html",
+    "main.baff0f4d.css.map": "/gitUsersFinder/static/css/main.baff0f4d.css.map",
+    "main.5ca8103a.js.map": "/gitUsersFinder/static/js/main.5ca8103a.js.map",
+    "787.bb7d8723.chunk.js.map": "/gitUsersFinder/static/js/787.bb7d8723.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baff0f4d.css",
+    "static/js/main.5ca8103a.js"
+  ]
+}
